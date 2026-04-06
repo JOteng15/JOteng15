@@ -1,9 +1,15 @@
 ## Hi there, I'm Jevon👋.
-I'm final year Mathematics student with interests in machine learning, AI and their intersection in 
-computational neuroscience. I hope to display more of my projects/side tasks on this page!!
 
-- 🌱 I’m currently learning more on the world of AI, deep learning etc.
-  With a new found appreciation for computational neuroscience, cognitive neuroscience etc.
-  I want to start exploring the how mathematics and computer science can be integrated in these fields
-  to bridge them in order to advance the AI.
+I'm a final-year Mathematics student at Lancaster University, 
+with interests in machine learning, optimisation, and computational neuroscience.
 
+Some work explores how mathematical frameworks can make AI systems 
+more efficient and biologically plausible. Current projects include 
+energy-aware training methods that reduce computational cost in 
+deep learning, and computational studies of quantum vs classical 
+random walks.
+
+I'm currently writing my dissertation on changepoint detection via 
+dynamic programming, applied to high-dimensional time series in 
+NBA basketball — optimising algorithms to extract meaningful 
+patterns from complex, noisy data.
