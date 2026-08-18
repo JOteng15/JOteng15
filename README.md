@@ -1,7 +1,7 @@
 ## Hi there, I'm Jevon👋.
 
 I'm a Mathematics graduate at Lancaster University, 
-with interests in machine learning, optimisation, and computational neuroscience.🌱
+with interests in all things data, machine learning, optimisation, and computational neuroscience.🌱
 
 Some of my work explores how mathematical frameworks can make AI systems 
 more efficient and biologically plausible. Current projects include 
